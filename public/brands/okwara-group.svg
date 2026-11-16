@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" role="img" aria-labelledby="title">
+  <title id="title">Okwara Group</title>
+  <path d="M151 132a59 59 0 1 1 118 0" fill="none" stroke="#17639b" stroke-width="20" stroke-linecap="butt"/>
+  <path d="m176 131 34-54 34 54z" fill="#209bd0"/>
+  <text x="210" y="188" text-anchor="middle" fill="#353535" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="400" letter-spacing="1">OKWARA</text>
+  <text x="210" y="226" text-anchor="middle" fill="#353535" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="8">GROUP</text>
+</svg>

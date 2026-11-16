@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Calxin Auto Mombasa</title>
+  <desc id="desc">Calxin Auto Mombasa logo with a blue automotive mark and wheel.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0878ed"/><stop offset="1" stop-color="#063f9a"/></linearGradient>
+    <linearGradient id="tire" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17263b"/><stop offset="1" stop-color="#071326"/></linearGradient>
+  </defs>
+  <rect width="1200" height="390" rx="20" fill="#fff"/>
+  <g transform="translate(34 22)">
+    <path d="M283 16H174C110 16 69 49 42 103L12 164C-12 212 13 265 68 265h133l45-52H91c-25 0-35-17-24-39l36-70c14-27 32-39 63-39h78c14 0 25-4 36-15l47-34z" fill="url(#blue)"/>
+    <path d="M208 104h157L253 306h-91l50-87h-93l26-45c16-27 34-70 63-70z" fill="#071a34"/>
+    <path d="M38 272l104-47h81l-65 48H38z" fill="url(#blue)"/>
+    <circle cx="190" cy="185" r="56" fill="#fff" stroke="#071a34" stroke-width="12"/>
+    <circle cx="190" cy="185" r="41" fill="url(#tire)" stroke="#9da9b8" stroke-width="5"/>
+    <circle cx="190" cy="185" r="12" fill="#dfe5ec"/>
+    <g stroke="#eaf0f7" stroke-width="8" stroke-linecap="round">
+      <path d="M190 148v25M190 197v25M153 185h25M202 185h25M164 159l18 18M198 193l18 18M216 159l-18 18M182 193l-18 18"/>
+    </g>
+  </g>
+  <text x="405" y="202" fill="#071a34" font-family="Arial,Helvetica,sans-serif" font-size="136" font-style="italic" font-weight="800" letter-spacing="-7">CAL</text>
+  <path d="M661 98l56 0-33 38 32 39h-57l-25-30-30 30h-59l52-62-38-47h58l26 31z" fill="url(#blue)"/>
+  <text x="718" y="202" fill="#071a34" font-family="Arial,Helvetica,sans-serif" font-size="136" font-style="italic" font-weight="800" letter-spacing="-7">IN</text>
+  <text x="885" y="202" fill="#0871dc" font-family="Arial,Helvetica,sans-serif" font-size="76" font-style="italic" font-weight="800" letter-spacing="-3">AUTO</text>
+  <path d="M407 242h172M942 242h220" stroke="#1267cb" stroke-width="4"/>
+  <text x="620" y="260" fill="#071a34" font-family="Arial,Helvetica,sans-serif" font-size="31" letter-spacing="17">MOMBASA</text>
+</svg>
